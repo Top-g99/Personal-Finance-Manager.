@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "john_doe",
+      "password": "hashed_password",
+      "income": 5000,
+      "expenses": [
+        {
+          "category": "Food",
+          "amount": 200
+        },
+        {
+          "category": "Entertainment",
+          "amount": 100
+        }
+      ]
+    }
+  ]
+}
