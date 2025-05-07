@@ -1,0 +1,5 @@
+personal_finance_manager/
+│
+├── finance_manager.py
+├── data.json
+└── README.md
